@@ -14,7 +14,7 @@
 
     <TextView
         style="@style/StyleTextView"
-        android:layout_width="200dp"
+        android:layout_width="@dimen/congrat_text_view_width"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:gravity="end"

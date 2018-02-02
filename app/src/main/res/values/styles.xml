@@ -12,8 +12,8 @@
     <style name="StyleTextView">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:fontFamily">cursive</item>
-        <item name="android:padding">10dp</item>
-        <item name="android:textSize">30sp</item>
+        <item name="android:padding">@dimen/text_view_padding</item>
+        <item name="android:textSize">@dimen/text_size</item>
         <item name="android:textColor">@color/colorText</item>
     </style>
 
